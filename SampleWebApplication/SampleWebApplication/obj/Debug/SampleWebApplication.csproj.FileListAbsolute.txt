@@ -1,0 +1,5 @@
+C:\Users\nq14\Dev\Sample\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.dll
+C:\Users\nq14\Dev\Sample\SampleWebApplication\SampleWebApplication\bin\SampleWebApplication.pdb
+C:\Users\nq14\Dev\Sample\SampleWebApplication\SampleWebApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nq14\Dev\Sample\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.dll
+C:\Users\nq14\Dev\Sample\SampleWebApplication\SampleWebApplication\obj\Debug\SampleWebApplication.pdb
